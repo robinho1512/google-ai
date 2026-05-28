@@ -1,0 +1,6 @@
+{
+  "name": "PetCare",
+  "description": "Plataforma completa de pet shop: agendamento de banho/tosa, histórico de vacinas e exames, telemedicina/chat com veterinários e vitrine de produtos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
